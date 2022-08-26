@@ -81,10 +81,10 @@ html{
     background: #1da4f2;
     color: #fff;
     border-radius: 5px;
-    box-shadow: 0 0 5px #1da4f2,
+    /* box-shadow: 0 0 5px #1da4f2,
                 0 0 25px #1da4f2,
                 0 0 50px #1da4f2,
-                0 0 100px #1da4f2;
+                0 0 100px #1da4f2; */
 
 
 } 
